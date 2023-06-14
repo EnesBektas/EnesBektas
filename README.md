@@ -1,5 +1,5 @@
-### Hi there 👋
-<h3 align="center">Computer science student, passionate about research and data analysis.</h3>
+<h1 align="center">Hi 👋, Welcome to My Profile</h1>
+<h3 align="center">I am a computer science student, passionate about research and data analysis.</h3>
 <!--
 **EnesBektas/EnesBektas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
